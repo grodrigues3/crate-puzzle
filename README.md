@@ -1,5 +1,6 @@
 # crate-puzzle
 Kung Fu Create Puzzle Solver
+Game: http://www.puzzlebeast.com/crate/
 
 Author: Garrett Rodrigues
 Date: April 2014

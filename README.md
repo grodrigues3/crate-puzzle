@@ -5,7 +5,7 @@ Game: http://www.puzzlebeast.com/crate/
 Author: Garrett Rodrigues
 Date: April 2014
 
-Dependencies:
+# Dependencies:
 	1)Python 2.7 (probably backwards compatible with anything 2.xx)
 	2)Numpy 
 		To install on Ubuntu:
@@ -17,9 +17,9 @@ Dependencies:
 			https://pypi.python.org/pypi/simplejson/
 
 
-Instructions for Running the Code
+# Instructions for Running the Code
 
-1) The code relies on the current directory structure. 
+1- The code relies on the current directory structure. 
 	/src
 		/sample_games
 	/answers
@@ -27,7 +27,7 @@ Instructions for Running the Code
 		...
 		/boardn_solution.json
 
-2) Then, once numpy is installed, run the program by typing
+1- Then, once numpy is installed, run the program by typing
 	$ python final_kung_fu.py
 	
-3) Answers should be written to the answers directory in the correct json format
+1- Answers should be written to the answers directory in the correct json format
